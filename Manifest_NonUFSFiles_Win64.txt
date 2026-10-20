@@ -1,0 +1,17 @@
+Helden/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-04-27T11:17:55.035Z
+Helden/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-04-27T11:17:55.037Z
+Helden/Binaries/Win64/Helden-Win64-Shipping.exe	2026-08-09T15:10:01.231Z
+Helden/Binaries/Win64/tbb12.dll	2026-04-27T11:17:55.025Z
+Helden/Binaries/Win64/tbbmalloc.dll	2026-04-27T11:17:55.027Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2026-04-27T11:17:06.317Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2026-04-27T11:17:11.655Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2026-04-27T11:17:11.803Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2026-04-27T11:17:11.804Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv161/Win64/steam_api64.dll	2026-04-27T11:17:12.124Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2026-04-27T11:17:13.356Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2026-04-27T11:17:13.356Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-04-27T11:17:13.493Z
+Engine/Content/Renderer/TessellationTable.bin	2025-11-19T08:55:19.098Z
+Engine/Content/Slate/Cursor/invisible.cur	2025-11-19T08:55:19.120Z
+Engine/Config/StagedBuild_Helden.ini	2026-08-09T15:11:05.268Z
+Helden.exe	2026-08-09T15:11:05.266Z
